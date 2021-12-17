@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:51:11	34258/34258	---MCZ	200	added ('OK')	text/html	etag:W/%2285d2-EKqvdpA4cxSBWGZCGpeRLFPtl0Y%22	https://readymag.com/u46216399/3315339/	C:/Users/dasbu/Downloads/nagelziser.com/readymag.com/u46216399/3315339/index.html	(from )
+20:51:11	216/216	---M--	200	added ('OK')	text/plain	etag:W/%22d8-17dc27d3020%22	https://readymag.com/robots.txt		(from )
